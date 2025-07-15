@@ -80,7 +80,6 @@ From modern web apps to IoT and 3D printing, I love experimenting, learning, and
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biniyam-kefyalew&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
----
 
 ## 📫 Connect with Me
 
