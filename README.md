@@ -10,7 +10,7 @@ From modern web apps to IoT and 3D printing, I love experimenting, learning, and
 
 ## 🚀 About Me
 
-- 🎓 Background in **Computer Engineering & Electronics**
+- 🎓 Background in **Computer Engineering**
 - 🔭 Currently focused on:
   - Full-stack applications (React, Angular, Node.js, Spring Boot)
   - Electronics, Arduino, and microcontroller-based projects
@@ -84,7 +84,7 @@ From modern web apps to IoT and 3D printing, I love experimenting, learning, and
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio](https://biniyamkef.web.app/)
-- 📧 Email: [biniyamkefyalew5@gmail.com](mailto:biniyamkefyalewa@gmail.com)
+- 📧 Email: [biniyamkefyalewa@gmail.com](mailto:biniyamkefyalewa@gmail.com)
 - 💼 LinkedIn: [biniyam-kefyalew](https://linkedin.com/in/biniyam-kefyalew)
 
 > _"Keep building, keep learning, and stay curious!"_ 🌱
